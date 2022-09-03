@@ -2,7 +2,7 @@
 
 Página web con conexión a la API de Marvel.
 
-También se ha usado un poco de Boostrap
+También se ha usado un poco de Bootstrap
 
 
 # API-Marvel
